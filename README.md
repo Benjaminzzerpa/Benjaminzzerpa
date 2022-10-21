@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Benjaminzzerpa
-- 👀 I’m interested in a Python developer job...
-- 🌱 I’m currently learning Python, Django, Sql...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Benjaminzzerpa.
+- 👀 I’m interested to work as Python Developer.
+- 🌱 I’m currently learning Python, Django, SQL.
+
 
 <!---
 Benjaminzzerpa/Benjaminzzerpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
