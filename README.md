@@ -28,9 +28,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminzzerpa&theme=buefy&layout=compact" />
 </a>
 
-<br/>
-
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-<a https://www.linkedin.com/in/benjamin-zerpa-3a376a209/">
-<a href="mailto:bzerpam10@@gmail.com">
