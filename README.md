@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm José.</h2>
+<h1 align="center"> Hey there! I'm Benjamin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -25,7 +25,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjaminzzerpa&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminzzerpa2&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminzzerpa&theme=buefy&layout=compact" />
 </a>
 
 <br/>
