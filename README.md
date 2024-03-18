@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: ** Py. Js. **
+  🦄 Linguagens: <strong>Py. Js.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: ** Django, Tailwind, Bootstrap, ChartJs, ElectronJs **
+  💼 Ferramentas: <strong>Django, Tailwind, Bootstrap, ChartJs, ElectronJs</strong>
 </p>
 
 <p align="left">
