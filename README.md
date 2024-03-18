@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying AI and Data Science at <a href="https://www.uniso.br/home">UNISO</a>.
-- 💼 &nbsp; Working as a computer intern at <a href="https://wvetro.com.br">Wvetro</a>.
+- 💼 &nbsp; Working as a computer intern at <a href="https://nexaresources.com">Nexa Resources</a>.
 - 🌱 &nbsp; Continuously acquiring knowledge about the prevailing technologies on market.
-- ✍️ &nbsp; My skills in Python, Django, and Html are at an intermediate level.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
