@@ -31,3 +31,7 @@
   <a href="https://www.instagram.com/benjaminzzerpa/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+<a href="https://github.com/benjaminzzerpa" title="Perfil do Benjamin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjaminzzerpa&theme=dracula&show_icons=true" />
+</a>
