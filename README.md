@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estagiário de inovação digital na <strong>Nexa Resources</strong>.<br>
-  Graduando em Ciencia de dados e Inteligencia artifial pela Universidade de Sorocaba (UNISO).
+  Estagiário de Inovação digital na <strong>Nexa Resources</strong>.<br>
+  Graduando em Ciencia de dados e Inteligencia artificial pela Universidade de Sorocaba (UNISO).
 </p>
 
 <p align="left">
